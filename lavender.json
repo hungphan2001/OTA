@@ -1,16 +1,16 @@
 {
-  "error": false,
-  "id": "92f3805adea51d5f1814335f689da5b8d6ef2723a85701bf6f227b6d6739f19d",
-  "filename": "Cherish-OS-v1.4-20200712-0433-lavender-OFFICIAL.zip",
-  "datetime": 1598512302,
-  "version": "Ten",
-  "size": 1821553503,
-  "url": "https://sourceforge.net/projects/cherish-os/files/device/lavender/Cherish-OS-v1.4-20200712-0433-lavender-OFFICIAL.zip/download",
-  "filehash": "9036e16c147c6c377d45f8a0a46a9258",
-  "website_url": "https://sourceforge.net/projects/cherish-os/files/device",
-  "news_url": "https://t.me/cherishos",
-  "donate_url": "https://Paypal.me/hungphan2001",
-  "maintainer": "Hung Phan",
-  "maintainer_url": "https://github.com/hungphan2001",
-  "forum_url": "https://t.me/cherishos_chat"
+   "error": false,
+   "filename": "Cherish-OS-v1.4-20200712-0433-lavender-OFFICIAL.zip",
+   "datetime": 1598512302,
+   "size": 1198378756,
+   "url": "https://sourceforge.net/projects/cherish-os/files/device/lavender/Cherish-OS-v1.4-20200712-0433-lavender-OFFICIAL.zip/download",
+   "filehash": "c936a67e5bd9dd27956d81675621aca1",
+   "version": "Ten",
+   "id": "d3d6b0937bec63230e1f9c3bca400a65bed03603dfcf4dff7cd2c33a262340e5",
+   "website_url": "https://sourceforge.net/projects/cherish-os/files/device",
+   "news_url": "https://t.me/cherishOS",
+   "donate_url": "https://Paypal.me/hungphan2001",
+   "maintainer": "hungphan2001",
+   "maintainer_url": "https://t.me/hungphan2001"
 }
+
